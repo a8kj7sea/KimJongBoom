@@ -16,7 +16,7 @@ public class JoystickInteractEvent extends Event {
     @RequiredArgsConstructor
     @Getter
     public enum ButtonState {
-        ON("1"), OFF("0");
+        OFF("1"), ON("0");
 
         private final String val;
 
