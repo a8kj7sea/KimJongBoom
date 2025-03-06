@@ -1,0 +1,8 @@
+name: KimJungAun-Button
+version: "0.1"
+author: a8kj
+api: "1.21"
+api-version: "1.13"
+main: me.a8kj.kimjungaun.Main
+commands:
+  setup:
